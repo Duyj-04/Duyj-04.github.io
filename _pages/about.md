@@ -22,7 +22,7 @@ I am currently a master's student at [Sun Yat-sen University](https://www.sysu.e
 
 My research interests include Visual Perception, Autonomous Robot.
 
-You can find my CV here: [Yanjin DU](../assets/jianli.pdf). 
+You can find my CV here: [cv](../assets/jianli.pdf). 
 
 
 
