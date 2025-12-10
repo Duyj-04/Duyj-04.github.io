@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am currently a master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/). Fortunately to be supervised  by [Prof. Xiaohu Zhang](https://saa.sysu.edu.cn/teacher/184) in the Aircraft Visual Perception Group (AVP).
 
-My research interests include Visual Perception, Autonomous Robot.
+My research interests include Visual Perception, Autonomous Robot, Deep Learning and Embodied AI.
 
 You can find my CV here: [cv](../assets/jianli.pdf). 
 
@@ -50,9 +50,10 @@ You can find my CV here: [cv](../assets/jianli.pdf).
 - *2023.7*: The 22nd National Robotics Competition ROBOCON — National First Prize (Top 8)
 - *2023.8*: The 18th National College Intelligent Vehicle Competition, Information and Smart Agriculture Group — National Second Prize
 - *2024.5*: 2024 RoboCup UAV Challenge, Physical Track — National Third Prize
+- *2024.8*: 2024 RAICOM Robotics Competition, Intelligent Reconnaissance Group — National Second Prize
 
 # 📖 Educations
-- *2025.09 - 2028.07*, Master of The Aircraft Visual Perception Group, Sun Yat-sen University, ShenZhen, China.
+- *2025.09 - 2028.07*, Master of The School of Aeronautics and Astronautics, Sun Yat-sen University, ShenZhen, China.
   - Supervised by [Prof. Xiaohu Zhang](https://saa.sysu.edu.cn/teacher/184).
 - *2021.09 - 2025.07*, Bachelor of Vehicle Engineering Major, Nan Chang University, JiangXi, China  
 
