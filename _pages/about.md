@@ -22,12 +22,12 @@ I am currently a master's student at [Sun Yat-sen University](https://www.sysu.e
 
 My research interests include Visual Perception, Autonomous Robot, Deep Learning and Embodied AI.
 
-You can find my CV here: [cv](../assets/jianli.pdf). 
+You can find my Curriculum Vitae here: [cv](../assets/jianli.pdf). 
 
 
 
 # 🔥 News
-- *2025.11*: One paper has been submitted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).  
+- *2026.02*: One paper has been submitted to the IEEE Transactions on Industrial Informatics.  
 
 <!-- 有了产出再写吧。。 -->
 <!-- # 📝 Publications 
@@ -47,10 +47,10 @@ You can find my CV here: [cv](../assets/jianli.pdf).
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.7*: The 22nd National Robotics Competition ROBOCON — National First Prize (Top 8)
-- *2023.8*: The 18th National College Intelligent Vehicle Competition, Information and Smart Agriculture Group — National Second Prize
-- *2024.5*: 2024 RoboCup UAV Challenge, Physical Track — National Third Prize
-- *2024.8*: 2024 RAICOM Robotics Competition, Intelligent Reconnaissance Group — National Second Prize
+- *2023.7*: The 22nd National Robotics Competition ROBOCON — National First Award (Top 8)
+- *2023.8*: The 14th National Zhou Peiyuan Undergraduate Mechanics Competition —  National Excellence Award
+- *2024.5*: 2024 RoboCup UAV Challenge, Physical Track — National Third Award
+- *2024.8*: 2024 RAICOM Robotics Competition, Intelligent Reconnaissance Group — National Second Award
 
 # 📖 Educations
 - *2025.09 - 2028.07*, Master of The School of Aeronautics and Astronautics, Sun Yat-sen University, ShenZhen, China.
