@@ -22,7 +22,7 @@ I am currently a master's student at [Sun Yat-sen University](https://www.sysu.e
 
 My research interests include Visual Perception, Autonomous Robot, Deep Learning and Embodied AI.
 
-You can find my Curriculum Vitae here: [cv](../assets/jianli.pdf). 
+You can find my Curriculum Vitae here: [cv](../assets/cv.pdf). 
 
 
 
