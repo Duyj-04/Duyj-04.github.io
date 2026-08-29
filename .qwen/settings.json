@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(net *)",
+      "Bash(dir *)",
+      "Bash(\"%temp%\\vs_buildtools.exe\" *)",
+      "Bash(type *)",
+      "Bash(tasklist *)",
+      "Bash(findstr *)",
+      "Bash(start-sleep *)",
+      "Bash(get-content *)",
+      "Bash(exist *)",
+      "Bash(echo *)",
+      "Bash(\"d:\\vsbuildtools\\vc\\auxiliary\\build\\vcvars64.bat\")",
+      "Bash(set *)",
+      "Bash(bundle *)",
+      "Bash(write-host *)",
+      "Bash(select-string *)",
+      "Bash(select-object *)",
+      "Bash($c *)",
+      "Bash(write-host)",
+      "Bash($c[-60..-26])",
+      "Bash($i=0)",
+      "Bash($i *)",
+      "Bash(foreach-object *)",
+      "Bash($start *)",
+      "Bash($end *)",
+      "Bash($end-1)",
+      "Bash($d='d:\\conda\\envs\\jekyll\\lib\\ruby\\gems\\4.0.0\\extensions\\x64-mswin64-140\\4.0.0\\nokogiri-1.18.10')",
+      "Bash(get-childitem *)",
+      "Bash(tail *)",
+      "Bash(powershell *)",
+      "Bash(\"\"d:\\vsbuildtools\\vc\\auxiliary\\build\\vcvars64.bat\" > c:\\users\\16860\\.qwen\\tmp\\vcvars_out.txt 2>&1 && echo include= %include:~0,400% & where cl 1> c:\\users\\16860\\.qwen\\tmp\\vcvars_cl.txt 2>&1 & powershell -noprofile -command \"get-childitem *)",
+      "Bash(c:\\users\\16860\\.qwen\\tmp\\check_vcvars.bat)"
+    ]
+  },
+  "$version": 4
+}
