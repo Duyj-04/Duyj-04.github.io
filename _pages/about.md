@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Welcome! 
-I am currently a master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/). Fortunately to be supervised  by [Prof. Xiaohu Zhang](https://saa.sysu.edu.cn/teacher/184) in the Aircraft Visual Perception Group (AVP).
+# Welcome!
+I am currently a master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/), where I am fortunate to be supervised by [Prof. Xiaohu Zhang](https://saa.sysu.edu.cn/teacher/184) in the Aircraft Visual Perception Group (AVP).
 
-My research interests include Visual Perception, Autonomous Robot, Deep Learning and Embodied AI.
+My research interests include visual perception, autonomous robotics, deep learning, and embodied AI.
 
-You can find my Curriculum Vitae here: [cv](../assets/cv.pdf). 
+My curriculum vitae is available [here](../assets/cv.pdf).
 
 
 
 # 🔥 News
-- *2026.08*: A paper has been accepted by ***IEEE Transactions on Instrumentation and Measurement*** (IEEE TIM).
-- *2026.07*: A paper has been submitted to ***IEEE Sensors Journal*** (IEEE Sensors J.).
-- *2026.07*: A second paper has been submitted to ***IEEE Transactions on Image Processing*** (IEEE TIP).
-- *2026.07*: A paper has been submitted to ***IEEE Transactions on Image Processing*** (IEEE TIP).
-- *2026.04*: A paper has been submitted to ***IEEE Transactions on Instrumentation and Measurement*** (IEEE TIM).
+- *2026.08*: A paper has been **accepted** by ***IEEE Transactions on Instrumentation and Measurement*** (IEEE TIM).
+- *2026.07*: A paper has been **submitted** to ***IEEE Sensors Journal*** (IEEE Sensors J.).
+- *2026.07*: A second paper has been **submitted** to ***IEEE Transactions on Image Processing*** (IEEE TIP).
+- *2026.07*: A paper has been **submitted** to ***IEEE Transactions on Image Processing*** (IEEE TIP).
+- *2026.04*: A paper has been **submitted** to ***IEEE Transactions on Instrumentation and Measurement*** (IEEE TIM).
 
 <!-- 有了产出再写吧。。 -->
 <!-- # 📝 Publications 
@@ -57,10 +57,10 @@ You can find my Curriculum Vitae here: [cv](../assets/cv.pdf).
 - *2023.08*: The 14th National Zhou Peiyuan Undergraduate Mechanics Competition — National Excellence Award
 - *2023.07*: The 22nd National Robotics Competition ROBOCON — National First Award (Top 8)
 
-# 📖 Educations
-- *2025.09 - 2028.07*, Master of The School of Aeronautics and Astronautics, Sun Yat-sen University, ShenZhen, China.
+# 📖 Education
+- *2025.09 – 2028.07*, M.S. candidate, School of Aeronautics and Astronautics, Sun Yat-sen University, Shenzhen, China
   - Supervised by [Prof. Xiaohu Zhang](https://saa.sysu.edu.cn/teacher/184).
-- *2021.09 - 2025.07*, Bachelor of Vehicle Engineering Major, Nan Chang University, JiangXi, China  
+- *2021.09 – 2025.07*, B.Eng. in Vehicle Engineering, Nanchang University, Jiangxi, China  
 
 <!-- 
 # 💬 Invited Talks

@@ -1,3 +1,6 @@
 _site/
+.sass-cache/
+.jekyll-cache/
 push.sh
 .DS_Store
+Thumbs.db
