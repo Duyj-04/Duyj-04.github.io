@@ -27,6 +27,7 @@ My curriculum vitae is available [here](../assets/cv.pdf).
 
 
 # 🔥 News
+- *2026.09*: A paper has been **submitted** to ***IEEE Transactions on Robotics*** (IEEE T-RO).
 - *2026.08*: A paper has been **accepted** by ***IEEE Transactions on Instrumentation and Measurement*** (IEEE TIM).
 - *2026.07*: A paper has been **submitted** to ***IEEE Sensors Journal*** (IEEE Sensors J.).
 - *2026.07*: A second paper has been **submitted** to ***IEEE Transactions on Image Processing*** (IEEE TIP).
