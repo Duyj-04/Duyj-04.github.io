@@ -34,25 +34,22 @@ My curriculum vitae is available [here](../assets/cv.pdf).
 - *2026.07*: A paper has been **submitted** to ***IEEE Transactions on Image Processing*** (IEEE TIP).
 - *2026.04*: A paper has been **submitted** to ***IEEE Transactions on Instrumentation and Measurement*** (IEEE TIM).
 
-<!-- 有了产出再写吧。。 -->
-<!-- # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2026</div><img src='images/panoair.png' alt="PanoAir" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset](https://github.com/YYWumm/PanoAir)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yiyang Wu, Xiaohu Zhang, **Yanjin Du**, Tongsu Zhang, Chujun Li, Siyang Chen, Guoyi Zhang, Xiangpeng Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/YYWumm/PanoAir) [**Dataset**](https://drive.google.com/drive/folders/1bpEvIG8duxgAJkuRhN4_eMlmg634q-1l?usp=sharing) <strong><span class='show_paper_citations' data='scH5L4sAAAAJ:d1gkVwhDpl0C'></span></strong>
+
+A real-world panoramic visual-inertial SLAM framework and dataset for UAV flight scenarios, covering diverse flight conditions with RTK ground truth.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2026.08*: 2026 RoboMaster AI Challenge (RMUA) — National First Prize (4th place)
+- *2026.08*: 2026 RoboMaster AI Challenge (RMUA) — National First Award (4th place)
 - *2024.08*: 2024 RAICOM Robotics Competition, Intelligent Reconnaissance Group — National Second Award
 - *2024.05*: 2024 RoboCup UAV Challenge, Physical Track — National Third Award
 - *2023.08*: The 14th National Zhou Peiyuan Undergraduate Mechanics Competition — National Excellence Award
