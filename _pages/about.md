@@ -38,7 +38,7 @@ My curriculum vitae is available [here](../assets/cv.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2026</div><img src='images/panoair.png' alt="PanoAir" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset](https://github.com/YYWumm/PanoAir)
+[PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset](https://doi.org/10.1109/TIM.2026.3731728)
 
 Yiyang Wu, Xiaohu Zhang, **Yanjin Du**, Tongsu Zhang, Chujun Li, Siyang Chen, Guoyi Zhang, Xiangpeng Xu
 
